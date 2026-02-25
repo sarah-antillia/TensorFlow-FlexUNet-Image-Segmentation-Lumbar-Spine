@@ -114,7 +114,7 @@ the <b>SPIDER</b> MHA images and masks dataset.
 <br>
 <table border=1 style='border-collapse:collapse;' cellpadding='5'>
 <tr><th>Indexed Color</th><th>Color</th><th>RGB</th><th>Class</th></tr>
-<tr><td>0</td><td with='80' height='auto'><img src='./color_class_mapping/Class_0.png' widith='40' height='25'></td><td>(0, 0, 0)</td><td>Class_0</td></tr>
+<tr><td>0</td><td with='80' height='auto'><img src='./color_class_mapping/Class_0.png' widith='40' height='25'></td><td>(0, 0, 0)</td><td>Back ground</td></tr>
 <tr><td>1</td><td with='80' height='auto'><img src='./color_class_mapping/Class_1.png' widith='40' height='25'></td><td>(255, 0, 0)</td><td>Class_1</td></tr>
 <tr><td>2</td><td with='80' height='auto'><img src='./color_class_mapping/Class_2.png' widith='40' height='25'></td><td>(0, 255, 0)</td><td>Class_2</td></tr>
 <tr><td>3</td><td with='80' height='auto'><img src='./color_class_mapping/Class_3.png' widith='40' height='25'></td><td>(0, 0, 255)</td><td>Class_3</td></tr>
